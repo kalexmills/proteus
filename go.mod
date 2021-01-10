@@ -1,4 +1,4 @@
-module github.com/jonbodner/proteus
+module github.com/kalexmills/proteus
 
 go 1.15
 
